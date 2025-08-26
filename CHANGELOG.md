@@ -1,55 +1,28 @@
 # Changelog
 
-All Notable changes to `laravel-menus` will be documented in this file.
+All notable changes to this fork of `nwidart/laravel-menus` will be documented in this file.
 
-## Next
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 6.0.0 - 2020-11-11
+---
 
-### Added
-
-- Laravel 8 support
-
-## 5.0.0 - 2019-10-01
+## [Unreleased]
 
 ### Added
+- Support for Laravel 9, 10, 11, and 12
+- Updated `composer.json` to allow `illuminate/*` packages ^8.0|^9.0|^10.0|^11.0|^12.0
+- Updated PHP requirement to ^8.0
+- Updated `laravelcollective/html` dependency to ^6.3
 
-- laravel 6.0 support
+### Fixed
+- Compatibility issues with Laravel 10+ (namespaces, method signatures)
 
-## 4.0.0 - 2019-10-01
+### Changed
+- Forked from original `nwidart/laravel-menus` to maintain and support modern Laravel versions
 
-### Added
+---
 
-- laravel 5.8 support
+## [Original Versions]
 
-## 3.0.0 - 2018-09-30
+Refer to the original `nwidart/laravel-menus` release notes for Laravel 5–8 compatibility.
 
-### Added
-
-- laravel 5.7 support
-
-## 2.0.0 - 2018-02-14
-
-### Added
-
-- Laravel 5.6 support
-
-### Removed
-
-- Php 5.6 and 7.0
-
-## 1.0.0 - 2017-09-01
-
-### Added
-
-- Support laravel 5.5
-- Dropping php 5.6 support
-
-## 0.5.0 - 2017-09-01
-
-### Added
-
-- Added a Zurb Foundation menu presenter
-- Added a AdminLTE menu presenter
-- More tests
-- Changelog file
