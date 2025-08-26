@@ -2,7 +2,7 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-This is a **maintained private fork** of `nwidart/laravel-menus` with extended support for **Laravel 9, 10, 11, and 12**.  
+This is a **maintained fork** of `nwidart/laravel-menus` with extended support for **Laravel 9, 10, 11, and 12**.  
 The original package is no longer actively maintained, but this fork ensures compatibility with modern Laravel versions.
 
 ---
